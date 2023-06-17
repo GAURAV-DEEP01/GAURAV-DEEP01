@@ -6,7 +6,7 @@ Web Developer on a journey to master backend development and create robust and s
 
 ## Skills
 
-- [List your technical skills, programming languages, frameworks, tools, or technologies that you specialize in.]
+![Screenshot](image/bootstrap.png)
 
 ## Contact
 
