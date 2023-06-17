@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey there! Im Gaurav Deep
 
-<!--
-**GAURAV-DEEP01/GAURAV-DEEP01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Web Developer on a journey to master backend development and create robust and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- [List your technical skills, programming languages, frameworks, tools, or technologies that you specialize in.]
+
+## Contact
+
+- Email: [gauravdeep8660@gmail.com]
+- GitHub: [https://github.com/GAURAV-DEEP01]
+
+Feel free to reach out to me for any collaborations, opportunities, or discussions related to web development. I'm always excited to connect with fellow developers and work on interesting projects!
+
+
