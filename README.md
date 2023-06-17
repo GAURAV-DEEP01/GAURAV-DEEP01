@@ -6,11 +6,12 @@ Web Developer on a journey to master backend development and create robust and s
 
 ## Skills
 
-- ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML
-- ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS
-- ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
-- ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) Bootstrap
-- ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> HTML
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50px"> Bootstrap
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"> Git
+
 
 
 ## Contact
