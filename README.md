@@ -1,4 +1,4 @@
-# Hey there! Im Gaurav Deep   [![](https://visitcount.itsvg.in/api?id=GAURAV-DEEP01&icon=5&color=1)](https://visitcount.itsvg.in)
+# Hey there! Im Gaurav Deep 
 
 ## About Me
 
