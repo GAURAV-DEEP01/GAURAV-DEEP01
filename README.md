@@ -18,7 +18,7 @@ Web Developer on a journey to master backend development and create robust and s
 - [Linkedin](https://www.linkedin.com/in/gaurav-deep-1a0b46280/)
 
 ## Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV-DEEP01&theme=tokyonight&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV-DEEP01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV-DEEP01&theme=tokyonight&hide_border=false)&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV-DEEP01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 Feel free to reach out to me for any collaborations, opportunities, or discussions related to web development. I'm always excited to connect with fellow developers and work on interesting projects!
