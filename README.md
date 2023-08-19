@@ -2,7 +2,7 @@
 
 ## About Me
 
-Web Developer on a journey to master backend development and create robust and scalable web applications.
+<strong>"Web Developer | Engineering Student | Uncovering Backend Wonders | Learning to crafting robust and scalable web solutions."</strong>
 
 ## Skills
 
